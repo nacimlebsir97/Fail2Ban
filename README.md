@@ -10,7 +10,7 @@ Documentation: https://www.linode.com/docs/guides/using-fail2ban-to-secure-your-
 
 # Content
 
-- [SSH Fail2Ban Setup](SSH_Fail2ban.md#setup)
-- [SSH Fail2Ban Configuration](SSH_Fail2ban.md#configuration)
-- [SSH Fail2Ban Operations](SSH_Fail2ban.md#operations)
-- [SSH Fail2Ban Queries](SSH_Fail2ban.md#queries)
+- [SSH Fail2Ban Setup](SSH_Fail2Ban.md#setup)
+- [SSH Fail2Ban Configuration](SSH_Fail2Ban.md#configuration)
+- [SSH Fail2Ban Operations](SSH_Fail2Ban.md#operations)
+- [SSH Fail2Ban Queries](SSH_Fail2Ban.md#queries)
